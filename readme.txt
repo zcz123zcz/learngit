@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 push this to a repository
+
+creating a new branch is quick.
